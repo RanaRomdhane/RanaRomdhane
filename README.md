@@ -1,5 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=RanaRomdhane&color=ff69b4)  
 # 💫 About Me:
-Hi there! I'm Rana, a passionate Computer Science Engineering student with a strong drive to build modern and impactful software solutions.<br>I enjoy turning ideas into real applications that are clean, efficient, and user-friendly.<br><br>🚀 What I Do<br><br>💻 Develop desktop and web applications using Java, JavaFX, Swing, HTML, CSS, and JavaScript<br><br>⚙️ Build back-end systems with Spring Boot and MySQL<br><br>📊 Perform data analysis and visualization with Power BI<br><br>🧠 Continuously explore new technologies, frameworks, and best practices
+Hi there! I'm Rana, a passionate Computer Science Engineering student with a strong drive to build modern and impactful software solutions.<br>I enjoy turning ideas into real applications that are clean, efficient, and user-friendly.<br><br>🚀 What I Do : <br><br>💻 Develop desktop and web applications using Java, JavaFX, Swing, HTML, CSS, and JavaScript<br><br>⚙️ Build back-end systems with Spring Boot and MySQL<br><br>📊 Perform data analysis and visualization with Power BI<br><br>🧠 Continuously explore new technologies, frameworks, and best practices
 
 
 ## 🌐 Socials:
@@ -20,5 +21,3 @@ Hi there! I'm Rana, a passionate Computer Science Engineering student with a str
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RanaRomdhane&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
