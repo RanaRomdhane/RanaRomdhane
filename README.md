@@ -1,4 +1,6 @@
-[![MasterHead](https://th.bing.com/th/id/R.840ac1a5eef2c7abcaca3e4757db48e9?rik=B65IXVuPSd8leQ&riu=http%3a%2f%2fs10.favim.com%2forig%2f161123%2faesthetic-alternative-art-computer-Favim.com-4889705.gif&ehk=P9iOvDCBV30kisDJ3pGiDjCJ7f2YVA63HTwSmCZrNx0%3d&risl=&pid=ImgRaw&r=0)](https://girhub.com/RanaRomdhane)
+<!-- Option 1: Image avec attribut width -->
+<img src="https://th.bing.com/th/id/R.840ac1a5eef2c7abcaca3e4757db48e9?rik=B65IXVuPSd8leQ&riu=http%3a%2f%2fs10.favim.com%2forig%2f161123%2faesthetic-alternative-art-computer-Favim.com-4889705.gif&ehk=P9iOvDCBV30kisDJ3pGiDjCJ7f2YVA63HTwSmCZrNx0%3d&risl=&pid=ImgRaw&r=0" width="100%" height="350px" style="object-fit: cover;" alt="MasterHead"/>
+
 <h1 align="center">Hi 👋, I'm Rana Romdhane</h1>
 <h3 align="center">A Computer Science Engineering Student</h3>
 
@@ -10,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/rana-romdhane-260b70293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/https://www.linkedin.com/in/rana-romdhane-260b70293/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/rana.romdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/rana.romdhane" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ranaromdhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ranaromdhane/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rana-romdhane-260b70293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rana.romdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ranaromdhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
