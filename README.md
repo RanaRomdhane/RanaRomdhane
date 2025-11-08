@@ -24,9 +24,7 @@
   <img src="https://cdn3.emoji.gg/emojis/22680-spinning-purple-heart.gif" width="50px" height="50px">
   <img src="https://cdn3.emoji.gg/emojis/22680-spinning-purple-heart.gif" width="50px" height="50px">
   <img src="https://cdn3.emoji.gg/emojis/22680-spinning-purple-heart.gif" width="50px" height="50px">
-  <img src="https://cdn3.emoji.gg/emojis/22680-spinning-purple-heart.gif" width="50px" height="50px">
-  <img src="https://cdn3.emoji.gg/emojis/22680-spinning-purple-heart.gif" width="50px" height="50px">
-  <img src="https://cdn3.emoji.gg/emojis/22680-spinning-purple-heart.gif" width="50px" height="50px">
+
 </div>
 
 <h3 align="left">Connect with me : </h3>
