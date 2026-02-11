@@ -41,7 +41,3 @@
   <!-- GitHub Streak -->
 <img src="https://streak-stats.vercel.app/?user=ranaromdhane&theme=jolly&hide_border=true" alt="GitHub Streak" width="50%"/>
 </p>
-
-<h3 align="left">My Github Contributions : </h3>
-
-<img src="https://ssr-contributions-svg.vercel.app/_/ranaromdhane?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&dark=true" />
