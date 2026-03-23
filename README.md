@@ -34,6 +34,8 @@
 <a href="https://www.instagram.com/ranaromdhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <h3 align="left">My Github Stats : </h3>
 <p align="center">
   <!-- GitHub Stats -->
