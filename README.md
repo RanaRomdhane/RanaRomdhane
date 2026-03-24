@@ -1,10 +1,14 @@
 <img src="https://i.pinimg.com/736x/f0/22/6f/f0226f99c0695bc9e52512bdb2a61fcc.jpg" width="100%" height="350px" style="object-fit: cover;" alt="MasterHead"/>
 
 <h1 align="center">💜 Hi, I'm Rana Romdhane 💜</h1>
-<h3 align="center">A Computer Science Engineering Student</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Software+Developer;Passionate+about+Innovation;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=ranaromdhane.ranaromdhane&style=flat-square&left_color=%23291b3e&right_color=%23542a5e&left_text_color=%23a960ff&right_text_color=%23ffc700)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RanaRomdhane&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RanaRomdhane?label=Followers&style=for-the-badge&color=violet" alt="followers" />
+</p>
 
 - 📫 How to reach me **rana.romdhane@enicar.ucar.tn**
  or **ranaromdhane1@gmail.com**
@@ -32,6 +36,7 @@
 <a href="https://www.linkedin.com/in/rana-romdhane-260b70293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.facebook.com/rana.romdhane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ranaromdhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+ <a href="https://www.github.com/RanaRomdhane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Github" height="30" width="40" /></a>
 </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
@@ -43,3 +48,11 @@
   <!-- GitHub Streak -->
 <img src="https://streak-stats.vercel.app/?user=ranaromdhane&theme=jolly&hide_border=true" alt="GitHub Streak" width="50%"/>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&from=6D28D9&to=EC4899&height=120&section=footer" />
+</div>
+
+
+
+
