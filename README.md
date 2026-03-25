@@ -49,10 +49,14 @@
 <img src="https://streak-stats.vercel.app/?user=ranaromdhane&theme=jolly&hide_border=true" alt="GitHub Streak" width="50%"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&from=6D28D9&to=EC4899&height=120&section=footer" />
+<div align="left">
+  <h3>My Contributions :</h3>
+  <img src="https://pacman.abozanona.me?username=RanaRomdhane" />
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=footer" />
+</div>
 
 
 
