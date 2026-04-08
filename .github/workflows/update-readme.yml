@@ -1,26 +1,26 @@
-name: Update README
+name: Auto Refresh GitHub Stats
 
 on:
   schedule:
-    - cron: '*/10 * * * *'   # toutes les 30 minutes
-  workflow_dispatch:          # lancement manuel
+    - cron: '*/10 * * * *' # toutes les 10 minutes
+  workflow_dispatch:
 
 jobs:
-  update-readme:
+  refresh-stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - name: Update README timestamp
+      - name: Update GitHub stats URL with timestamp
         run: |
-          sed -i "s/<!--LAST_UPDATE-->.*<!--END_UPDATE-->/<!--LAST_UPDATE-->Last update: $(date '+%Y-%m-%d %H:%M:%S')<!--END_UPDATE-->/" README.md
+          sed -i "s|https://github-readme-stats-three-eta-66.vercel.app/api?username=ranaromdhane.*|https://github-readme-stats-three-eta-66.vercel.app/api?username=ranaromdhane&count_private=true&theme=jolly&hide_border=true&show_icons=true&v=$(date +%s)|" README.md
 
-      - name: Commit and push changes
+      - name: Commit changes
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Update README timestamp" || echo "No changes to commit"
+          git commit -m "Auto-refresh GitHub stats" || echo "No changes"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
