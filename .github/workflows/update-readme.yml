@@ -1,0 +1,26 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'   # toutes les 30 minutes
+  workflow_dispatch:          # lancement manuel
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update README timestamp
+        run: |
+          sed -i "s/<!--LAST_UPDATE-->.*<!--END_UPDATE-->/<!--LAST_UPDATE-->Last update: $(date '+%Y-%m-%d %H:%M:%S')<!--END_UPDATE-->/" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README timestamp" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
