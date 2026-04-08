@@ -41,10 +41,5 @@
 </div>
 
 <div align="center">
-  <!-- Auto-refresh info -->
-  <!--LAST_UPDATE-->Last update: never<!--END_UPDATE-->
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=120&section=footer" />
 </div>
