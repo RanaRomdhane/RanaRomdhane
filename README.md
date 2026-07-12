@@ -2,7 +2,7 @@
 
 <h1 align="center">💜 Hi, I'm Rana Romdhane 💜</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;AI%2FML+Enthusiast;Software+Developer;Passionate+about+Innovation;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI/+ML+Engineer+;AI%2FML+Enthusiast;Software+Developer;Passionate+about+Innovation;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <p align="center">
