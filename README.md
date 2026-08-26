@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/RanaRomdhane?label=Followers&style=for-the-badge&color=violet" alt="followers" />
 </p>
 
-- 📫 How to reach me **ranaromdhane1@gmail.com** or **rana.romdhane@enicar.ucar.tn**
+- 📫 How to reach me : **ranaromdhane1@gmail.com**
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn3.emoji.gg/emojis/22680-spinning-purple-heart.gif" width="50px" height="50px">
